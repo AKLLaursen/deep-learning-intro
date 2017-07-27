@@ -1,2 +1,7 @@
 cnn-introduction/MNIST_data
 cnn-introduction/.ipynb_checkpoints
+embedding-intro/models
+embedding-intro/data
+embedding-intro/glove
+embedding-intro/.ipynb_checkpoints
+rnn-intro/.ipynb_checkpoints
