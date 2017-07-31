@@ -5,3 +5,4 @@ embedding-intro/data
 embedding-intro/glove
 embedding-intro/.ipynb_checkpoints
 rnn-intro/.ipynb_checkpoints
+rnn-intro/models
