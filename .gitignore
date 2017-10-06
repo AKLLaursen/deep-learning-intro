@@ -7,3 +7,7 @@ embedding-intro/.ipynb_checkpoints
 embedding-intro/tsne/__pycache__
 rnn-intro/.ipynb_checkpoints
 rnn-intro/models
+style-transfer/.ipynb_checkpoints
+style-transfer/data
+style-transfer/results
+style-transfer/test
