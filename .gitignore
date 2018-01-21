@@ -14,3 +14,5 @@ style-transfer/test
 parallelization/data
 parallelization/results
 parallelization/.ipynb_checkpoints
+gans/.ipynb_checkpoints
+gans/logs
